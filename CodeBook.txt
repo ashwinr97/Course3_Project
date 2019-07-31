@@ -1,0 +1,20 @@
+The following are the variables:
+
+
+1. features - Reads in the features data file which contains the information on the features vector
+2. data_train_x - Training data set
+3. data_train_activity - Contains the training labels
+4. data_train.subject - Contains the training subjects
+5. data_train - Merged data frame of training dataset, labels and subjects
+6. data_test_x - Test data set
+7. data_test_activity - Contains the testing labels
+8. data_test_subject- Contrains the testing subjects
+9. data_test - Merged data frame of testing dataset, labels and subjects
+
+10. data_complete - Binded data frame of both complete training and testing data
+11. mean_std - Contains only the mean and the standard deviation data values
+
+12. activity_labels - Contatins the descriptive activity names for the activity labels
+13. names_new - Used to rename the names for a better and clear understanding and to look cleaner
+
+14. tidyData - Contains the tidy dataset after cleaning both the training and testing data sets
